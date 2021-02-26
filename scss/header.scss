@@ -17,6 +17,7 @@ header {
             flex-direction: row;
             list-style: none;
             align-items: center;
+            
 
             //li
 
@@ -26,6 +27,7 @@ header {
                 //a
             a{
                 color: $color-branco;
+                padding: 0 15px;
             }
             //end a
             //end ul
