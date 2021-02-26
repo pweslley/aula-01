@@ -1,0 +1,22 @@
+@media(max-width:1150px){
+    .container{
+        width: 950px;
+    }
+}
+@media(max-width:1024px){
+    .container{
+        width: 800px;
+    }
+}
+@media(max-width:915px){
+    .container{
+        width: 750px;
+        
+    }
+    .row{
+        flex-direction: column ;
+    }
+    header nav{
+        margin:20px 0;
+    }
+}

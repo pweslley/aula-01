@@ -1,0 +1,45 @@
+.sobre-web-design{
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+.sobre-web-design article{
+    width: 250px;
+}
+.sobre-web-design article h1{
+    font-size: 90px;
+    font-weight: 400;
+    color: white;
+    line-height: 100%;
+    
+    
+
+}
+.sobre-web-design article h2{
+    font-size: 35px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+  
+
+}
+.sobre-web-design article a{
+    color: white;
+    font-size: 18px;
+    padding: 5px;
+    margin: 10px 10px;
+}
+.sobre-web-design article p{
+    color: white;
+    margin: 15px 0;
+}
+.sobre-web-design img{
+    width: 500px;
+    align-items:center;
+    margin: 30px
+
+    
+
+}

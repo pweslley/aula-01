@@ -1,0 +1,25 @@
+header section{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+header nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+}
+header nav ul li{
+    padding: 0 15px;
+}
+
+header nav ul li a{
+    color: white;
+}
+
+header img{
+    height: 70px;
+    margin: 10px 50px 15px;
+}
