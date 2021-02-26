@@ -1,0 +1,44 @@
+header {
+    //section
+    section{
+    
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+    //End section
+
+    //Nav
+    nav {
+        //ul
+        ul{
+            display: flex;
+            flex-direction: row;
+            list-style: none;
+            align-items: center;
+
+            //li
+
+            li{
+                padding: 0 15px;
+                //end li
+                //a
+            a{
+                color: $color-branco;
+            }
+            //end a
+            //end ul
+    }
+    //End Nav
+}
+
+}
+img{
+    height: 70px;
+    margin: 10px 50px 15px;
+}
+
+}
+
+

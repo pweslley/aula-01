@@ -1,0 +1,56 @@
+.sobre-web-design{
+    align-items: center;
+    justify-content: space-between;
+
+    //article
+    article{
+        width: 250px;
+        
+        //h1
+         h1{
+            font-size: $font-h1;
+            font-weight: 400;
+            color: $color-secundaria;
+            line-height: 100%;
+         }
+         //end h1
+
+         //h2
+            h2{
+                font-size: $font-h2;
+                font-weight: bold;
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                color: $color-secundaria;
+            }
+            //end h2
+            
+            //a
+            a{
+                    color: $color-secundaria;
+                    font-size: 18px;
+                    padding: 5px;
+                    margin: 10px 10px;
+                }
+                //end a
+
+                //p     
+                p{
+                        color: $color-secundaria;
+                        margin: 15px 0;
+                     }
+                     //end p
+    }
+    //article
+
+    //img
+    img{
+        width: 500px;
+        align-items:center;
+        margin: 30px
+    }
+    //end img
+    
+    
+
+}
