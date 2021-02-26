@@ -10,7 +10,7 @@
 .sobre-web-design article h1{
     font-size: 90px;
     font-weight: 400;
-    color: white;
+    color: $color-secundaria;
     line-height: 100%;
     
     
@@ -21,18 +21,18 @@
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: white;
+    color: $color-secundaria;
   
 
 }
 .sobre-web-design article a{
-    color: white;
+    color: $color-secundaria;
     font-size: 18px;
     padding: 5px;
     margin: 10px 10px;
 }
 .sobre-web-design article p{
-    color: white;
+    color: $color-secundaria;
     margin: 15px 0;
 }
 .sobre-web-design img{
